@@ -39,7 +39,6 @@ namespace practica6_1_2_AAF1718
     class Alumno
     {
         private string nombre;
-        string i = "";
         private int nota;
         public string Nombre
         {

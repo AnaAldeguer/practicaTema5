@@ -1,0 +1,10 @@
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\bin\Debug\practica6-1_2_AAF1718.exe.config
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\bin\Debug\practica6-1_2_AAF1718.exe
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\bin\Debug\practica6-1_2_AAF1718.pdb
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\obj\Debug\practica6-1_2_AAF1718.csprojResolveAssemblyReference.cache
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\obj\Debug\practica6_1_2_AAF1718.Form1.resources
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\obj\Debug\practica6_1_2_AAF1718.Properties.Resources.resources
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\obj\Debug\practica6-1_2_AAF1718.csproj.GenerateResource.cache
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\obj\Debug\practica6-1_2_AAF1718.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\obj\Debug\practica6-1_2_AAF1718.exe
+C:\Users\Ana\source\repos\practicaTema5\practica6-1_2_AAF1718\obj\Debug\practica6-1_2_AAF1718.pdb
